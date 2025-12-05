@@ -15,26 +15,31 @@
   <br/>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-    <br/>
-    <img src="https://img.shields.io/badge/kali_linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   </div>
 
   <br/><br/>
 
-  <img src="https://github.com/rayhan-sw/rayhan-sw/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/rayhan-sw/rayhan-sw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 
   <br/><br/>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rayhan-sw&show_icons=true&hide_border=true&bg_color=020617&title_color=3b82f6&icon_color=0ea5e9&text_color=f8fafc" height="160" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-sw&layout=compact&hide_border=true&bg_color=020617&title_color=3b82f6&text_color=f8fafc" height="160" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rayhan-sw&show_icons=true&hide_border=true&bg_color=020617&title_color=3b82f6&icon_color=0ea5e9&text_color=f8fafc" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-sw&layout=compact&hide_border=true&bg_color=020617&title_color=3b82f6&text_color=f8fafc" height="150" alt="languages graph" />
   </div>
 
   <br/>
