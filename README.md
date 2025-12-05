@@ -31,17 +31,6 @@
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/rayhan-sw/rayhan-sw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-
-  <br/><br/>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rayhan-sw&show_icons=true&hide_border=true&bg_color=020617&title_color=3b82f6&icon_color=0ea5e9&text_color=f8fafc" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-sw&layout=compact&hide_border=true&bg_color=020617&title_color=3b82f6&text_color=f8fafc" height="150" alt="languages graph" />
-  </div>
-
-  <br/>
-
   <a href="https://rayhansw.com">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-rayhansw.com-6366f1?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
